@@ -300,7 +300,7 @@ Test thoroughly before PRs
 MIT License – see LICENSE for details.
 
 👤 Author
-Ngoubi Maximillian Diamgha
+Ngoubi Maximillian Diangha
 
 GitHub: @ngoubimaximillian12
 
